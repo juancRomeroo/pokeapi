@@ -1,0 +1,50 @@
+.center{
+	text-align: center;
+}
+
+img{
+	width:55%;
+}
+
+.content_stats{
+	display: inline-block;
+}
+
+.align{
+	text-align: left;
+}
+
+.content_image{
+	background-color: white;
+    background-position: center;
+    background-repeat:no-repeat;
+    background-image: url(../svg/blob3.svg);
+	border:2px solid black;
+	border-radius: 10px;
+}
+
+h2{
+	font-weight: bold;
+	font-size: 1.4rem;
+	color: #055160;
+}
+
+h1{
+    font-weight: bold;
+	font-size: 1.6rem;
+	color: #055160;	
+}
+
+.pokemons_container{
+	border: 3px solid black;
+	background-color: #91cba7;
+}
+
+.content_stats{
+	color: #055160;
+}
+
+.page-link{
+	color: white;
+	background-color: #055160; 
+}
